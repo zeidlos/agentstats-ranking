@@ -1,0 +1,19 @@
+{
+  "name": "stats-check",
+  "version": "0.0.1",
+  "description": "A simple tool to check agentstats JSON and create a highscore list for different criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ingress",
+    "agent-stats"
+  ],
+  "author": "jz",
+  "license": "ISC",
+  "dependencies": {
+    "curlrequest": "^0.5.7",
+    "lodash": "^4.16.4"
+  }
+}
