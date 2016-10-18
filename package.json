@@ -10,7 +10,7 @@
     "ingress",
     "agent-stats"
   ],
-  "author": "jz",
+  "author": "outdoornerd",
   "license": "ISC",
   "dependencies": {
     "curlrequest": "^0.5.7",
