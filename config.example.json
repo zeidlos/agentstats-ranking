@@ -1,0 +1,5 @@
+/* Put in your API key and the groupID, name it config.json */
+{
+  "API_KEY": "XXX",
+  "URL": "https://api.agent-stats.com/groups/groupID/week"
+}
